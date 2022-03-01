@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="Calculator">Calculator</string>
+    <string name="plus">+</string>
+    <string name="Firstnumber">0</string>
+    <string name="Secondnumber">0</string>
+    <string name="wait">0</string>
+    <string name="PUSH">PUSH ME TO SEE</string>
+</resources>
+    <!--Who are we to tell anyone what he can to do?
+            This project made by AbdullwahaB -->
